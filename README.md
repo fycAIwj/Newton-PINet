@@ -1,4 +1,3 @@
-# Newton-PINet
 
 **Newton-PINet: A Fast Physics-Informed Neural Network with Newton Linearization for Meta-Learning Nonlinear PDEs**
 
