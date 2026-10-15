@@ -2,15 +2,12 @@
 
 **Newton-PINet: A Fast Physics-Informed Neural Network with Newton Linearization for Meta-Learning Nonlinear PDEs**
 
-Yuchen Fan<sup>1,*</sup>, Chang Wei<sup>1</sup>, Pao-Hsiung Chiu<sup>2</sup>, Chin Chun Ooi<sup>2</sup>, **Heyang Wang**<sup>1</sup>, **Jian Cheng Wong**<sup>2,†</sup>
-
-<sup>1</sup> Tianjin University, Tianjin, China  
-<sup>2</sup> [Institution name], [Location]
+Yuchen Fan, Chang Wei, Pao-Hsiung Chiu, Chin Chun Ooi, Heyang Wang, Jian Cheng Wong
 
 ## Framework
 
 <p align="center">
-  <img src="framework.jpg" alt="Newton-PINet Framework" width="90%">
+  <img src="framework.jpg" alt="Newton-PINet model framework" width="90%">
 </p>
 
 ## Install
