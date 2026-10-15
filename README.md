@@ -7,7 +7,9 @@ Yuchen Fan, Chang Wei, Pao-Hsiung Chiu, Chin Chun Ooi, Heyang Wang, Jian Cheng W
 ## Framework
 
 <p align="center">
-  <img src="framework.jpg" alt="Newton-PINet model framework" width="90%">
+  <img src="Newton-PINet%20model%20framework.jpg"
+       alt="Newton-PINet model framework"
+       width="90%">
 </p>
 
 ## Install
