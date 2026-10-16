@@ -3,7 +3,7 @@
 
 **Yuchen Fan, Chang Wei, Pao-Hsiung Chiu, Chin Chun Ooi, Heyang Wang, Jian Cheng Wong**
 
-🎉 **Accepted as a Poster at NeurIPS 2026!** 🎉
+🎉 **Accepted at NeurIPS 2026!** 🎉
 
 **Paper:** [OpenReview – Paper and Discussion](https://openreview.net/forum?id=wUNTVhsOr7#discussion)
 
