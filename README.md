@@ -7,14 +7,22 @@
 
 **Paper:** [OpenReview – Paper and Discussion](https://openreview.net/forum?id=wUNTVhsOr7#discussion)
 
+## Overview
 
-## Framework
+Existing deep learning methods for nonlinear PDEs often require substantial training data or costly optimization during task adaptation.
+
+**Newton-PINet** addresses these limitations through three key components:
+1. **Efficient architecture:** A physics-informed neural network with skip connections and a least-squares output layer.
+2. **Two-stage learning:** Gradient-based representation learning followed by gradient-free output-layer fine-tuning for rapid adaptation to new PDE tasks.
+3. **Newton linearization:** Accelerates least-squares iterations for nonlinear PDEs.
 
 <p align="center">
   <img src="Newton-PINet%20model%20framework.jpg"
        alt="Newton-PINet model framework"
        width="90%">
 </p>
+
+**Impact:** Newton-PINet reduces training data requirements while enabling fast, accurate, and physics-consistent generalization to unseen PDE tasks, advancing data-efficient and generalizable physics-informed solvers.
 
 ## Install
 
