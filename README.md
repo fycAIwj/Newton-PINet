@@ -22,9 +22,7 @@ Existing deep learning methods for nonlinear PDEs often require substantial trai
        width="90%">
 </p>
 
-## Impact
-
-Newton-PINet reduces training data requirements while enabling fast, accurate, and physics-consistent generalization to unseen PDE tasks, advancing the meta-learning of PINNs toward data-efficient, fast, and generalizable physics solvers.
+**Impact:** Newton-PINet reduces training data requirements while enabling fast, accurate, and physics-consistent generalization to unseen PDE tasks, advancing the meta-learning of PINNs toward data-efficient, fast, and generalizable physics solvers.
 
 ## Install
 
