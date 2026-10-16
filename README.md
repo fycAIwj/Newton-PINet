@@ -1,11 +1,12 @@
 
-## Newton-PINet: A Fast Physics-Informed Neural Network with Newton Linearization for Meta-Learning Nonlinear PDEs
+# Newton-PINet: A Fast Physics-Informed Neural Network with Newton Linearization for Meta-Learning Nonlinear PDEs
 
-![NeurIPS 2026](https://img.shields.io/badge/NeurIPS%202026-Accepted%20as%20Poster-2563EB?style=for-the-badge)
+**Yuchen Fan, Chang Wei, Pao-Hsiung Chiu, Chin Chun Ooi, Heyang Wang, Jian Cheng Wong**
 
-**🎉 Accepted as a Poster at NeurIPS 2026! 🎉**
+🎉 **Accepted as a Poster at NeurIPS 2026!** 🎉
 
-Yuchen Fan, Chang Wei, Pao-Hsiung Chiu, Chin Chun Ooi, Heyang Wang, Jian Cheng Wong
+**Paper:** [OpenReview – Paper and Discussion](https://openreview.net/forum?id=wUNTVhsOr7#discussion)
+
 
 ## Framework
 
