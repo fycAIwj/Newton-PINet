@@ -13,7 +13,7 @@ Existing deep learning methods for nonlinear PDEs often require substantial trai
 
 **Newton-PINet** addresses these limitations through three key components:
 1. **Efficient architecture:** A physics-informed neural network with skip connections and a least-squares output layer.
-2. **Two-stage learning:** Gradient-based representation learning followed by gradient-free output-layer fine-tuning for rapid adaptation to new PDE tasks.
+2. **Two-stage learning:** Gradient-based meta-learning followed by gradient-free output-layer fine-tuning for rapid adaptation to new PDE tasks.
 3. **Newton linearization:** Accelerates least-squares iterations for nonlinear PDEs.
 
 <p align="center">
