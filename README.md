@@ -1,4 +1,4 @@
-
+<img width="6062" height="158" alt="image" src="https://github.com/user-attachments/assets/236342fa-29df-47be-9a37-7a54fb41164a" />
 # Newton-PINet: A Fast Physics-Informed Neural Network with Newton Linearization for Meta-Learning Nonlinear PDEs
 
 **Yuchen Fan, Chang Wei, Pao-Hsiung Chiu, Chin Chun Ooi, Heyang Wang, Jian Cheng Wong**
@@ -12,9 +12,10 @@
 Existing deep learning methods for nonlinear PDEs often require substantial training data or costly optimization during task adaptation.
 
 **Newton-PINet** addresses these limitations through three key components:
-1. **Efficient architecture:** A physics-informed neural network with skip connections and a least-squares output layer.
-2. **Two-stage learning:** Gradient-based meta-learning followed by gradient-free output-layer fine-tuning for rapid adaptation to new PDE tasks.
-3. **Newton linearization:** Accelerates least-squares iterations for nonlinear PDEs.
+1. **Efficient architecture:** A skip-connected network with the output-layer weights computed using Tikhonov regularization.
+2. **Two-stage learning:** Meta-learn task-agnostic representations spanning a family of PDEs and enable fast generalization to unseen tasks via fine-tuning only the output-layer weights using the Tikhonov regularization.
+3. **Newton linearization:** Accelerates the Tikhonov regularization iterations for nonlinear PDEs.
+
 
 <p align="center">
   <img src="Newton-PINet%20model%20framework.jpg"
