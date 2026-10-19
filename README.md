@@ -1,4 +1,4 @@
-<img width="6062" height="158" alt="image" src="https://github.com/user-attachments/assets/236342fa-29df-47be-9a37-7a54fb41164a" />
+
 # Newton-PINet: A Fast Physics-Informed Neural Network with Newton Linearization for Meta-Learning Nonlinear PDEs
 
 **Yuchen Fan, Chang Wei, Pao-Hsiung Chiu, Chin Chun Ooi, Heyang Wang, Jian Cheng Wong**
