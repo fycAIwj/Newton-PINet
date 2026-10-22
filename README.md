@@ -1,5 +1,5 @@
 
-# Newton-PINet: A Fast Physics-Informed Neural Network with Newton Linearization for Meta-Learning Nonlinear PDEs
+# Newton-PINet: A fast physics-informed neural network with Newton linearization for meta-learning nonlinear PDEs
 
 **Yuchen Fan, Chang Wei, Pao-Hsiung Chiu, Chin Chun Ooi, Heyang Wang, Jian Cheng Wong**
 
