@@ -5,7 +5,8 @@
 
 🎉 **Accepted at NeurIPS 2026!** 🎉
 
-**Paper:** [OpenReview – Paper and Discussion](https://openreview.net/forum?id=wUNTVhsOr7#discussion)
+**Paper:** [NeurIPS 2026](https://neurips.cc/virtual/2026/loc/sydney/poster/148607)  
+**OpenReview:** [Reviews and Discussion](https://openreview.net/forum?id=wUNTVhsOr7#discussion)
 
 ## Overview
 
