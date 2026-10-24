@@ -27,7 +27,7 @@ Existing deep learning methods for nonlinear PDEs often require substantial trai
 ## Install
 
 <p>
-  <img src="https://img.shields.io/badge/JAX-blue?logo=python" alt="JAX">
+  <img src="https://img.shields.io/badge/JAX-blue" alt="JAX">
   <img src="https://img.shields.io/badge/jaxlib-orange" alt="jaxlib">
   <img src="https://img.shields.io/badge/EvoJAX-green" alt="EvoJAX">
   <img src="https://img.shields.io/badge/Flax-purple" alt="Flax">
