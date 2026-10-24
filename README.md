@@ -27,11 +27,11 @@ Existing deep learning methods for nonlinear PDEs often require substantial trai
 ## Install
 
 <p>
-  <img src="https://img.shields.io/badge/jax" alt="jax 0.4.13">
-  <img src="https://img.shields.io/badge/jaxlib" alt="jaxlib 0.3.10">
-  <img src="https://img.shields.io/badge/evojax" alt="evojax 0.2.17">
-  <img src="https://img.shields.io/badge/flax" alt="flax 0.6.4">
-  <img src="https://img.shields.io/badge/optax" alt="optax 0.1.8">
+  <img src="https://img.shields.io/badge/JAX-0.4.13-blue?logo=python" alt="JAX 0.4.13">
+  <img src="https://img.shields.io/badge/jaxlib-0.3.10-orange" alt="jaxlib 0.3.10">
+  <img src="https://img.shields.io/badge/EvoJAX-0.2.17-green" alt="EvoJAX 0.2.17">
+  <img src="https://img.shields.io/badge/Flax-0.6.4-purple" alt="Flax 0.6.4">
+  <img src="https://img.shields.io/badge/Optax-0.1.8-red" alt="Optax 0.1.8">
 </p>
 
 ## Environment
